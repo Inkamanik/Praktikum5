@@ -55,7 +55,7 @@ int main(){
     return num3;
 }
 
-`
+```
 
 ##Latihan2.cpp : Mengembangkan aplikasi dengan membuat fungsi dari hasil praktikum sebelumnya menjadi satu aplikasi dengan menampilkan menu pilihan.
 
@@ -153,7 +153,7 @@ void urut_data() {
         }
     }
     
- `
+ ```
 
 ##Latihan3.cpp : Kembangkan aplikasi dengan menggunakan file header (memisahkan fungsi kedalam file terpisah).
 
