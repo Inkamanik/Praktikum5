@@ -32,7 +32,7 @@ int bagi(int a, int b) {
 //fungsi utama
 int main(){
 
-    //menmanggil fungsi
+    //memanggil fungsi
     cout<<sum(1,99);
 
     int a, b;
