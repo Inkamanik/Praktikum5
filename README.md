@@ -57,7 +57,7 @@ int main(){
 
 ```
 
-##Latihan2.cpp : Mengembangkan aplikasi dengan membuat fungsi dari hasil praktikum sebelumnya menjadi satu aplikasi dengan menampilkan menu pilihan.
+## Latihan2.cpp : Mengembangkan aplikasi dengan membuat fungsi dari hasil praktikum sebelumnya menjadi satu aplikasi dengan menampilkan menu pilihan.
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `void terbesar,urut_data;` sebagai variable input.
@@ -155,7 +155,7 @@ void urut_data() {
     
  ```
 
-##Latihan3.cpp : Kembangkan aplikasi dengan menggunakan file header (memisahkan fungsi kedalam file terpisah).
+## Latihan3.cpp : Kembangkan aplikasi dengan menggunakan file header (memisahkan fungsi kedalam file terpisah).
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `void terbesar,urut_data;` sebagai variable input.
